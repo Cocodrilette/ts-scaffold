@@ -1,0 +1,20 @@
+{
+    "name": "ts-scaffold",
+    "version": "1.0.0",
+    "description": "",
+    "main": "build/index.js",
+    "scripts": {
+      "start": "tsc && node build/index.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "dotenv": "^16.3.1",
+      "typescript": "^5.1.6"
+    },
+    "devDependencies": {
+      "@types/node": "^20.4.1"
+    }
+  }
